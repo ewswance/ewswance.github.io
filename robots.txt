@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ewswance.github.io/sitemap.html.gz
+Sitemap: https://ewswance.github.io/app/sitemap.html.gz
+Sitemap: https://ewswance.github.io/assets/sitemap.html.gz
+Sitemap: https://ewswance.github.io/css/sitemap.html.gz
+Sitemap: https://ewswance.github.io/includes/sitemap.html.gz
+Sitemap: https://ewswance.github.io/item/sitemap.html.gz
+Sitemap: https://ewswance.github.io/src/sitemap.html.gz
